@@ -10,7 +10,7 @@ Language: Python
 ## Certificate:  [Verified by Worldquant University ](https://wqu.thedataincubator.com/certificate/6315988161134592)
 
 
-Just for reference and I hope you can star⭐ me.
+**Just for reference and I hope you can star⭐ me.
   
 ## Contact me
   
