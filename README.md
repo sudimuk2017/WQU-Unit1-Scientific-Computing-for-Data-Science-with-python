@@ -16,4 +16,4 @@ Language: Python
   
   **Gmail: murindanyi@gmail.com
   
-  **Linkin: [MyLinkin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)**
+  **Linkin: [MyLinkin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)
