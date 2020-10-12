@@ -13,7 +13,7 @@ Language: Python
 **Just for reference and I hope you can star⭐ me.**
   
 ## Contact me
-  
-  **Gmail: murindanyi@gmail.com
+
+  Gmail: murindanyi@gmail.com
   
   **Linkin: [MyLinkin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)
