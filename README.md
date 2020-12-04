@@ -1,7 +1,7 @@
 # Scientific Computing and Python for Data Science
 *************************************************************************
 
-jhdjhadg aye gdwigeygdwiegwefyugweyofg yugdyugfweyfgyugwefogowyfg 
+jhdjhadg ayegdwigeygdwiegwefyugweyofg yugdyugfweyfgyugwefogowyfg 
 
 This repo contains all the projects, assignments and the notes that I have completed as a part of the course. The course covers all in Scientific Computing and Python for Data Science.
 
